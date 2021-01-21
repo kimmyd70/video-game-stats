@@ -4,7 +4,7 @@
 - using stats from [Kaggle](https://www.kaggle.com/gregorut/videogamesales): vgsales.csv
 
 
-Submission pull request: 
+Submission pull request: https://github.com/kimmyd70/video-game-stats/pull/1
 
 
 ## Description
